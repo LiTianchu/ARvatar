@@ -2,6 +2,8 @@
   
 #### This is a unique Unity 3D chat app project integrated with AR and 3D technologies  
 
+<img alt="Logo" src="./report/logo.png" width="1280" />
+
 ## Team  
 Yunxuan - Leader, 2D Artist, 3D Modeler, Animator  
 Aloysious - Frontend & Backend Programmer  
