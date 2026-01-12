@@ -4,6 +4,9 @@
 
 <img alt="Logo of ARvatar" src="./reports/logo.png" width="1280" />  
 
+## Demo Video  
+https://www.youtube.com/watch?v=i_KowiEBE_g  
+
 ## Team  
 Yunxuan - Leader, 2D Artist, 3D Modeler, Animator  
 Aloysious - Frontend & Backend Programmer  
