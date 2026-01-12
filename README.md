@@ -1,8 +1,8 @@
-# Project Associated with NTU IEM module IM3180  
+# ARvatar - Project Associated with NTU IEM module IM3180  
 
 #### This is a unique Unity 3D chat app project integrated with AR and 3D technologies  
 
-<img alt="Logo of ARvatar" src="./reports/logo.png" width="1280" />
+<img alt="Logo of ARvatar" src="./reports/logo.png" width="1280" />  
 
 ## Team  
 Yunxuan - Leader, 2D Artist, 3D Modeler, Animator  
@@ -44,3 +44,10 @@ Building: OpenJDK, Android SDK, Gradle
 7. To set up for simulator testing, go to **Build Settings -> Switch platform to Android**  
 8. After that, go to **Player Settings -> XR Plugin Management** make sure that **XR Simulation** under the Desktop Tab and **Google ARCore** under the Android Tab are checked  
    
+## Poster 
+<img alt="Poster of ARvatar" src="./reports/poster.png" width="1280" />  
+
+## Screenshots  
+<img alt="Message" src="./reports/message.png" width="1280" />  
+<img alt="AR" src="./reports/ar.png" width="1280" />  
+<img alt="Customization" src="./reports/customization.png" width="1280" />   
