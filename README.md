@@ -1,6 +1,8 @@
 # Project Associated with NTU IEM module IM3180  
-  
+
 #### This is a unique Unity 3D chat app project integrated with AR and 3D technologies  
+
+<img alt="Logo of ARvatar" src="./reports/logo.png" width="1280" />
 
 ## Team  
 Yunxuan - Leader, 2D Artist, 3D Modeler, Animator  
